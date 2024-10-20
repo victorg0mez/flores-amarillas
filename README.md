@@ -1,2 +1,2 @@
 # flores-amarillas
-gitgub pages
+github pages
